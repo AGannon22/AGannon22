@@ -2,7 +2,6 @@
 - 👀 I’m interested in the connection between the mind and video games. My dream is to study the possible treatment of mental disorders through video games. I am also into web dev :)
 - 🌱 I’m currently learning python, httml, css, and js
 - 💞️ I’m looking to collaborate on nothing at the moment, im still learning a lot!
-- 📫 How to reach me: you can reach me via email at gannonalyssa@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a student at the University at Buffalo
 
