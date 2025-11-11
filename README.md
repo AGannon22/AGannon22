@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AGannon22
-- I am a CS student at UB
-- I am interested in Game Dev and Web Dev
-- The most recent language I have been learning has been JS and Java 
-- Pronouns: she/her
+## AGannon22 (She/Her/Hers)
+- I am a Computer Science undergraduate student at UB
+- I am interested in Data Science, ML, UI/UX and more! Ask me about it!
+- My most recent project is: /ToneTag Suggester, which was created for UBHacking2025 and won "Failure to Launch" category
 
 <!---
 AGannon22/AGannon22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
