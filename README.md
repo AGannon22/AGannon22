@@ -3,6 +3,7 @@
 - I am interested in Software Engineering, Backend Dev, ML, UI/UX and more! Ask me about it!
 - My top projects are:
      - /ToneTag Suggester, which was created for UBHacking2025 and won "Failure to Launch" category
+     - LeetClaus, a leetcode advent calendar developed for UB Hacking 2026
      - Create Civilizations Discord Bot, which is built in Java and is used for whitelisting, help tickets, and more!
 
 <!---
